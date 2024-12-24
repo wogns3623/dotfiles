@@ -6,6 +6,8 @@
 !.gitignore
 !.gitconfig
 !.gitattributes
+!.git-crypt
+!.git-crypt/**/*
 
 # ssh
 !.ssh
