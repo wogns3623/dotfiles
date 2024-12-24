@@ -1,0 +1,4 @@
+.ssh/** filter=git-crypt diff=git-crypt
+
+.*_history filter=git-crypt diff=git-crypt
+.*_history/** filter=git-crypt diff=git-crypt

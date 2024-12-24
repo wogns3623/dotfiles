@@ -1,0 +1,40 @@
+*
+**/.gitignore
+
+# macOS
+**/.DS_Store
+
+!init.sh
+
+# git
+!.gitignore
+!.gitconfig
+!.gitattributes
+
+# ssh
+!.ssh
+!.ssh/config
+!.ssh/known_hosts
+!.ssh/keys
+!.ssh/keys/**/*
+
+# brew
+!Brewfile
+
+# zsh
+!.zprofile
+!.zshrc
+!.zshenv
+!.zlogin
+!.zlogout
+
+# oh-my-zsh
+!.p10k.zsh
+
+# shell history
+!.*_history
+!.*_history/**/*
+
+# app configurations
+!.config
+!.config/**/*
