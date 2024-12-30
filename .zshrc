@@ -147,3 +147,4 @@ export NVM_DIR="$HOME/.nvm"
 # END opam configuration
 
 PATH=~/.console-ninja/.bin:$PATH
+export PATH="/opt/homebrew/opt/postgresql@16/bin:$PATH"

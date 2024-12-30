@@ -1,3 +1,5 @@
 [user]
 	email = wogns3623@gmail.com
 	name = Jaehun Kim
+[pull]
+	rebase = false
