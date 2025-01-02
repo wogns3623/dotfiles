@@ -3,7 +3,9 @@
 # install homebrew
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 
+brew install gnupg
 brew install git
+brew install git-crypt
 
 # initialize git into home directory
 git init
