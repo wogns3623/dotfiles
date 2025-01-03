@@ -7,7 +7,6 @@ brew "bat"
 brew "freetype"
 brew "cmake"
 brew "cocoapods"
-brew "gmp"
 brew "ffmpeg"
 brew "fzf"
 brew "gcc"
@@ -30,6 +29,8 @@ brew "xcodesorg/made/xcodes"
 cask "adguard"
 cask "discord"
 cask "docker"
+cask "font-d2coding"
+cask "font-d2coding-nerd-font"
 cask "google-chrome"
 cask "gstreamer-runtime"
 cask "iterm2"
@@ -43,7 +44,11 @@ cask "visual-studio-code"
 cask "whisky"
 cask "wine-stable"
 cask "wireshark"
+mas "GarageBand", id: 682658836
+mas "iMovie", id: 408981434
 mas "Keynote", id: 409183694
+mas "Numbers", id: 409203825
+mas "Pages", id: 409201541
 mas "RunCat", id: 1429033973
 mas "Slack", id: 803453959
 mas "Xcode", id: 497799835
