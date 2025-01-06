@@ -1,6 +1,7 @@
 *
 
 !init.sh
+!backup.sha
 
 # git
 !.gitignore
